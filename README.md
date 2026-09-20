@@ -9,7 +9,7 @@ Passionate Interface Architect & Autodidakt (fun fact: actually bin ich laut 16 
 
 ### 🚀 Meine Vision & Ziele
 
-- 🛰️ **Mission:** Aktive Mitgestaltung von Innovationsstrategien und Produktvirtualisierungen (hopefully) beim **DLR** oder ähnlichen Forschungseinrichtungen.
+- 🛰️ **Mission:** Aktive Mitgestaltung von Innovationsstrategien und Produktvirtualisierungen (hopefully) bei etwaigen Forschungseinrichtungen.
 - 🧠 **Fokus:** Wie können wir Software-Interfaces (HCI) so gestalten, dass sie in hochkomplexen Umgebungen – vom Cockpit bis zur Forschungsdatenbank – intuitiv funktionieren?
 
 ---
@@ -20,7 +20,7 @@ Passionate Interface Architect & Autodidakt (fun fact: actually bin ich laut 16 
 *   **[LaTeX CV Engine](link-zu-deinem-repo):** Der Quellcode meines eigenen Lebenslaufs. Ein Beweis für meine Kompetenz in strukturierter Dokumentation mit LaTeX und VS Code. - already done!!!!! (wird noch verlinkt)
 *   **[Usability-Testing-Dashboard](link-zu-deinem-repo):** (Work in Progress) Ein Python-basiertes Analysetool zur statistischen Auswertung von Nutzer-Klickpfaden in Power BI.
 *   **[3D-Print Engineering](link-zu-deinem-repo):** Dokumentation meiner CAD-Konstruktionen (Fusion 360) für astronomisches Equipment.
-*   ** ° achja. und eine Website fürs min maxxing möchte ich (ggf.) auch noch erstellen (mit Linktree und Portfolio Projektdaten etc.)
+*    ° achja. und eine Website fürs min maxxing möchte ich (ggf.) auch noch erstellen (mit Linktree und Portfolio Projektdaten etc.)
 ---
 
 ### 💻 Tech Stack & Tools in autodidaktischer Aneignung, in progress....
