@@ -36,7 +36,7 @@ Passionate Interface Architect & Autodidakt (fun fact: actually bin ich laut 16 
 ---
 
 ### 🌌 weitere Fun Facts & Passionen
-- ✨ **Astro-Nerd:** Ich kalibriere meine Kameras (soon) lieber nach Sensortemperaturen als nach dem Wetterbericht.
+- ✨ **Astronomie-Nerd:** 
 - 🇯🇵 **Linguistik:** Ich lerne Japanisch, weil mich die Kulddddurrr interessiert und japanische, traditionelle Architektur ist super interessant ! ; Teezeremonie und Samurai in einem verlassenen Dorf in der faszinierenden Natur Japans preferrably auf der Katzeninsel die ebenfalls in Japans Inselkette verortet ist (Animes goated also).
 - 🎸 **Kreativität:** Wenn ich nicht gerade Code schreibe oder dem Astronomie Rabbit hole verfallen bin (schuldig im Sinne der Anklage -> relativer rookie btw , bin absoluter Amateur but eager to learn) , spiele ich E-Gitarre, singe und befasse mich mit sozialkritischen Themen (insbesondere medialer Natur) + lese viel. Waldbaden und touching grass sind außerdem eine persönliche Empfehlung (get out there nerds) !
 
